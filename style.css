@@ -1,0 +1,64 @@
+
+.card-body{
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    margin: 10px;
+}
+.crudbuttons{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 50px;
+}
+.brandcrud{
+    align-items: center;
+    justify-content: center;
+}
+.cbutton{
+    margin-left: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+select{
+    padding: 5px;
+    border-radius: 10px;
+}
+.citysort{
+    padding: 5px 5px;
+    display: inline-flex;
+}
+.brandsort{
+    margin: 5px 5px;
+    padding: 5px px;
+    display: inline-flex;
+}
+.cardstore{
+    display: inline-flex;
+    width: 21rem;
+    height: 23rem;
+    border-radius: 15px;
+}
+.cardbrand{
+    display: inline-flex;
+    width: 15rem;
+    height: 15em;
+    border-radius: 20px;
+}
+h1{
+    margin: 10px 10px;
+    padding-left: 30px;
+}
+.crudbuttonsbrand{
+    margin: auto;
+    padding: 10%;
+}
+.nav-item{
+    padding: 0px 20px;
+    border-radius: 25px;
+}
+.nav-item a{
+    color: rgb(12, 251, 255);
+}
